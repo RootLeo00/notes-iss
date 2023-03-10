@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "b265004da044bfe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee4da32116d8e05b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "061d882750e5b2ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49f895e727c3b57d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d870920ff05e81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3cd7a52e9bbe85b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87a9b8a273329485",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c43193f69e72665",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "389ce31afef52ac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0df6652e22661655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dfdba1d4a934210",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fa3c344fdd82d94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320786c0f7b705f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7f373fb8722b6db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "061d882750e5b2ff",
+  "lastOpenFiles": [
+    "temp",
+    "README.md",
+    "notes-iss/README.md",
+    "notes-iss",
+    "Prova.md",
+    "obsidian-git/manifest.json",
+    "obsidian-git/main.js",
+    "obsidian-git",
+    "Lez 1.md",
+    "iss-notes",
+    "iss-notes/README.md",
+    "iss-notes",
+    "iss-notes/prova.md"
+  ]
+}
